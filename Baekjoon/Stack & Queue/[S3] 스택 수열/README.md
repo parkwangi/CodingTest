@@ -1,9 +1,6 @@
 # [S3] 스택 수열 - 1874
 [문제 링크](https://www.acmicpc.net/problem/1874)
 
-## 성능 요약
-메모리: 34232KB / 216ms
-
 ## 분류
 Stack
 
