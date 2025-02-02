@@ -1,4 +1,4 @@
-# [S3] 괄호 - 9012
+# [S4] 괄호 - 9012
 [문제 링크](https://www.acmicpc.net/problem/9012)
 
 ## 분류
